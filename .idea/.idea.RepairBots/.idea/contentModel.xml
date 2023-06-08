@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="dameron.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BadEventsLogic.cs" t="Include" />
+          <e p="DeactivateSelf.cs" t="Include" />
+          <e p="GameLogic.cs" t="Include" />
+          <e p="MoveToScene.cs" t="Include" />
+          <e p="MoveTowardsColor.cs" t="Include" />
+          <e p="OnAwakeEventsScript.cs" t="Include" />
+          <e p="PlaySong.cs" t="Include" />
+          <e p="PylonLogic.cs" t="Include" />
+          <e p="ResetScript.cs" t="Include" />
+          <e p="RobotLogic.cs" t="Include" />
+          <e p="SerializedClass.cs" t="Include" />
+          <e p="TimedAction.cs" t="Include" />
+          <e p="TyperScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RepairBots.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_RepairBots.29090463.00" t="ExcludeRecursive" />
+  </component>
+</project>

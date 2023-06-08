@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 using System;
+using System.Collections.Generic;
 
 public class GameLogic : MonoBehaviour
 {
@@ -68,6 +69,8 @@ public class GameLogic : MonoBehaviour
     [SerializeField]
     private MoveTowardsColor mainGameTowardsColor;
 
+    public List<SerializedClass> classes;
+    
     private void Start() {
         startGameEvents.Invoke();
     }
